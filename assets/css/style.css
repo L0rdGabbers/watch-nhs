@@ -1,5 +1,6 @@
 * {
     margin: 0;
+    font-family: Ubuntu, sans-serif;
 }
 
 .row {
@@ -46,4 +47,17 @@ nav ul {
     display: flex;
     justify-content: space-around;
     align-items: center;
+}
+
+nav li {
+    font-size: larger;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #EBBD17;
 }
