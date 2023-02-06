@@ -57,6 +57,7 @@ nav li {
 nav a {
     color: white;
     text-decoration: none;
+    padding: 15px;
 }
 
 nav a:hover {
@@ -64,7 +65,6 @@ nav a:hover {
 }
 
 .active a {
-    padding: 15px;
     background-color: #fff;
     color: rgb(127, 0, 127);
 }
