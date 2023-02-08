@@ -92,7 +92,7 @@ nav a:hover {
     display: none;
     white-space: nowrap;
     position: absolute;
-    background-color: #EBBD17;
+    background-color: rgba(235, 189, 23, 0.9);
     min-width: fit-content;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
@@ -133,6 +133,12 @@ nav a:hover {
     width: 100%;
     overflow: hidden;
     margin-top: 5px;
+} 
+
+#cover-text, #cover-text h2{
+    color: #fff;
+
+
 }
 
 #hero-image {
@@ -153,4 +159,24 @@ nav a:hover {
     to { transform: scale(1.1);
 
     }
+}
+
+#cover-text {
+    font-size: 130%;
+    letter-spacing: 4px;
+
+    width: 300px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(127, 0, 127, 0.7);
+
+    bottom: 190px;
+    right: 180px;
+
+    position: absolute;
+
+
 }
