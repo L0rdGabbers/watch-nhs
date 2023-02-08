@@ -127,3 +127,30 @@ nav a:hover {
 .dropdown-content .active-a{
     color: #fff;
 }
+
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    margin-top: 5px;
+}
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url(/assets/images/WATCH\ ambulance.jpg) no-repeat 25% 85%;
+
+    animation-name: hero-zoom;
+    animation-duration: 10s;
+    animation-fill-mode: forwards;
+}
+
+
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+    to { transform: scale(1.1);
+
+    }
+}
