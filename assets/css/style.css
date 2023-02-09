@@ -133,6 +133,7 @@ nav a:hover {
     width: 100%;
     overflow: hidden;
     margin-top: 5px;
+    position: relative;
 } 
 
 #cover-text, #cover-text h2{
@@ -173,8 +174,8 @@ nav a:hover {
 
     background-color: rgba(127, 0, 127, 0.7);
 
-    bottom: 190px;
-    right: 180px;
+    bottom: 50px;
+    right: 250px;
 
     position: absolute;
 
@@ -182,13 +183,15 @@ nav a:hover {
 }
 
 #summary{
-    margin-top: 10px;
-    position: absolute;
-    
-    left: 10%;
-    right: 10%; 
+    margin: 10px 10% 0 10%;
 }
 
 #summary p {
     font-size: larger;
+}
+
+#nav-buttons {
+    display: flex;
+    justify-content: space-around;
+
 }
