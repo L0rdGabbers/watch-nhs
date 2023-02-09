@@ -200,13 +200,29 @@ nav a:hover {
     width: 100px;
     background-color: rgb(127, 0, 127);
     border-radius: 50%;
-    
+
 }
 
 .in-btn{
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 100px;
     width: 100px;
-    height: 100px;    
+}
+
+.in-btn a {
+    color: white;
+}
+
+.in-btn i {
+    font-size: 200%;
+}
+
+.out-btn {
+    text-align: center;
+}
+
+.out-btn h2 {
+    display: inline-block;
 }
