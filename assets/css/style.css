@@ -253,6 +253,7 @@ nav a:hover {
     display: flex;
     justify-content: space-evenly;
     flex-wrap: nowrap;
+    padding: 15px;
 }
 
 #pre-footer img {
