@@ -258,3 +258,13 @@ nav a:hover {
 #pre-footer img {
     max-height: 150px;
 }
+
+footer {
+    background-color: #504a4b;
+    padding: 10px;
+    display: flex;
+}
+
+footer p {
+    color: #fff;
+}
