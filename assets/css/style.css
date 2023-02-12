@@ -221,9 +221,26 @@ nav a:hover {
 }
 
 .out-btn {
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: min-content;
+    align-items: flex-end;
 }
 
 .out-btn h2 {
-    display: inline-block;
+    white-space: nowrap;
+}
+
+#footer-border {
+    display: flex;
+    justify-content: center;
+}
+
+#border {
+    border-top-style: solid;
+    width: 90%;
+    height: 20px;
+    border-width: 2px;
 }
