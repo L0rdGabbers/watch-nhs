@@ -196,6 +196,17 @@ nav a:hover {
     padding: 50px;
 }
 
+.out-btn a {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: min-content;
+    align-items: flex-end;
+    text-decoration: none;
+    color: #fff;
+}
+
 .purple-btn {
     height: 100px;
     width: 100px;
@@ -212,25 +223,13 @@ nav a:hover {
     width: 100px;
 }
 
-.in-btn a {
-    color: white;
-}
-
 .in-btn i {
     font-size: 200%;
 }
 
-.out-btn {
-    display: flex;
-    justify-content: center;
-    flex-direction: row;
-    flex-wrap: wrap;
-    max-width: min-content;
-    align-items: flex-end;
-}
-
-.out-btn h2 {
+.out-btn a h2 {
     white-space: nowrap;
+    color: black;
 }
 
 #footer-border {
