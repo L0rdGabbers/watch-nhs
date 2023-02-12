@@ -183,7 +183,7 @@ nav a:hover {
 }
 
 #summary{
-    margin: 10px 10% 0 10%;
+    margin: 30px 10% 0 10%;
 }
 
 #summary p {
@@ -215,6 +215,10 @@ nav a:hover {
 
 }
 
+.out-btn a:hover .purple-btn {
+    background-color: #EBBD17;
+}
+
 .in-btn{
     display: flex;
     justify-content: center;
@@ -229,7 +233,8 @@ nav a:hover {
 
 .out-btn a h2 {
     white-space: nowrap;
-    color: black;
+    color: #504a4b;
+    padding-top: 8px;
 }
 
 #footer-border {
