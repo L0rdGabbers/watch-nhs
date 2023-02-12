@@ -193,6 +193,7 @@ nav a:hover {
 #buttons {
     display: flex;
     justify-content: space-around;
+    padding: 50px;
 }
 
 .purple-btn {
