@@ -24,17 +24,19 @@
     width: 10%
 }
 
+.logo-head {
+    height: 6rem
+}
+
 #nhs-logo {
     float: right;
-    margin-right: 2%;
-    margin-top: 40px;
-    width: 8%;
+    margin: 2.5rem 2% 0 0;
+    height: 50%
 }
 
 #watch-logo {
-    margin-left: 2%;
-    margin-top: 35px;
-    width: 30%;
+    margin: 2.2rem 0 0 2%;
+    height: 60%;
 }
 nav {
     background-color: rgb(127, 0, 127);
