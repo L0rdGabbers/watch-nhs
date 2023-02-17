@@ -8,6 +8,10 @@
     flex-wrap: wrap;
 }
 
+.col-full {
+    width: 100%;
+}
+
 .column-half {
     width: 50%;
 }
@@ -258,7 +262,7 @@ nav a:hover {
     padding: 0 0 1em 0;
 }
 
-#about-ambulance {
+.hero-section {
     padding-top: 5px;
     width: 100%;
     display: flex;
@@ -278,6 +282,12 @@ nav a:hover {
     width: 50%;
     background: url(/assets/images/ambulances.jpg) 30% 30% no-repeat;
     margin-left: 1%;
+}
+
+#team-photo {
+    width: 100%;
+    background: url(/assets/images/ambulance-team.jpg) 40% 50% no-repeat;
+    margin: 0 1%
 }
 
 
