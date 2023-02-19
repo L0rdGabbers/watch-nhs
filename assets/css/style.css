@@ -258,6 +258,15 @@ nav a:hover {
     flex-direction: row;
 }
 
+.page-text ul {
+    width: 100%;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 1em
+}
+
+
 .page-text p {
     padding: 0 0 1em 0;
 }
@@ -271,6 +280,11 @@ nav a:hover {
     flex-wrap: wrap;
     justify-content: flex-start;
     font-size: larger;
+}
+
+.hero-section h1 {
+    padding-left: 2%;
+    color: rgb(127, 0, 127);
 }
 
 .section-half {
@@ -288,7 +302,7 @@ nav a:hover {
 #team-photo {
     width: 100%;
     background: url(/assets/images/ambulance-team.jpg) 40% 50% no-repeat;
-    margin: 0 1%
+    margin: 0 2% 2% 2%;
 }
 
 
