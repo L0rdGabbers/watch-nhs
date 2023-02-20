@@ -219,7 +219,7 @@ nav a:hover {
 
 }
 
-.out-btn a:hover .purple-btn {
+.out-btn a:hover .purple-btn, .out-btn:hover .big-btn {
     background-color: #EBBD17;
 }
 
@@ -324,6 +324,10 @@ nav a:hover {
     padding: 10px 4% 0 20px;
 }
 
+#referral-right .buttons {
+    padding-top: 4rem;
+}
+
 .big-btn {
     height: 10rem;
     width: 20rem;
@@ -336,10 +340,14 @@ nav a:hover {
     align-items: center;
 }
 
+.big-btn p {
+    font-size: 200%;
+}
+
 #btn-right {
     display: flex;
     justify-content: space-around;
-    width: 100%;
+    width: 92%;
 }
 
 #footer-border {
