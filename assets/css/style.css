@@ -194,7 +194,7 @@ nav a:hover {
     font-size: larger;
 }
 
-#buttons {
+.buttons {
     display: flex;
     justify-content: space-around;
     padding: 50px;
@@ -229,6 +229,7 @@ nav a:hover {
     align-items: center;
     height: 100px;
     width: 100px;
+    text-align: center;
 }
 
 .in-btn i {
@@ -299,17 +300,46 @@ nav a:hover {
     margin-left: 1%;
 }
 
+#ambulance-right {
+    width: 50%;
+    white-space: wrap;
+    padding: 10px 4% 0 20px;
+}
+
 #team-photo {
     width: 100%;
     background: url(/assets/images/ambulance-team.jpg) 40% 50% no-repeat;
     margin: 0 2% 2% 2%;
 }
 
+#referral-corner {
+    width: 50%;
+    background: url(/assets/images/referral.png) 50% 95% no-repeat;
+    background-size: 55rem;
+}
 
-#ambulance-right {
+#referral-right {
     width: 50%;
     white-space: wrap;
     padding: 10px 4% 0 20px;
+}
+
+.big-btn {
+    height: 10rem;
+    width: 20rem;
+    background-color: rgb(127, 0, 127);
+    border-radius: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#btn-right {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
 }
 
 #footer-border {
