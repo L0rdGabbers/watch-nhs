@@ -278,6 +278,10 @@ nav a:hover {
     margin-right: 5rem
 }
 
+.page-text p span {
+    font-weight: 600;
+}
+
 
 .hero-section {
     padding-top: 5px;
@@ -306,7 +310,7 @@ nav a:hover {
     margin-left: 1%;
 }
 
-#ambulance-right {
+.image-right {
     width: 50%;
     white-space: wrap;
     padding: 10px 4% 0 20px;
@@ -320,14 +324,14 @@ nav a:hover {
 
 #referral-corner {
     width: 50%;
-    background: url(/assets/images/referral.png) 50% 95% no-repeat;
+    background: url(/assets/images/referral.jpg) 40% 30% no-repeat;
     background-size: 55rem;
 }
 
-#referral-right {
+#drug-corner {
     width: 50%;
-    white-space: wrap;
-    padding: 10px 4% 0 20px;
+    background: url(/assets/images/pills.jpg) 40% 100% no-repeat;
+    background-size: 55rem;
 }
 
 #referral-right .buttons {
@@ -350,7 +354,7 @@ nav a:hover {
     font-size: 200%;
 }
 
-#btn-right {
+#btn-space {
     display: flex;
     justify-content: space-around;
     width: 92%;
