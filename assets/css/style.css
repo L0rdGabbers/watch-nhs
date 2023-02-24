@@ -346,6 +346,12 @@ nav a:hover {
     background-size: 55rem;
 }
 
+#family-corner {
+    width: 50%;
+    background: url(/assets/images/family\ in\ hospital.jpg) 25% 50% no-repeat;
+    background-size: 55rem;
+}
+
 .big-btn {
     height: 10rem;
     width: 20rem;
