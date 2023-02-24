@@ -262,6 +262,7 @@ nav a:hover {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
+    justify-content: space-around;
 }
 
 .page-text ul {
@@ -328,14 +329,21 @@ nav a:hover {
     background-size: 55rem;
 }
 
+#referral-right .buttons {
+    padding-top: 4rem;
+}
+
+
 #drug-corner {
     width: 50%;
     background: url(/assets/images/pills.jpg) 40% 100% no-repeat;
     background-size: 55rem;
 }
 
-#referral-right .buttons {
-    padding-top: 4rem;
+#guideline-image {
+    width: 50%;
+    background: url(/assets/images/guidelines.jpg) 40% 50% no-repeat;
+    background-size: 55rem;
 }
 
 .big-btn {
