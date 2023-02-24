@@ -273,6 +273,10 @@ nav a:hover {
     margin-bottom: 1em
 }
 
+.page-text ul span li {
+    padding-left: 1rem;
+}
+
 
 .page-text p {
     padding: 0 0 1em 0;
@@ -350,6 +354,12 @@ nav a:hover {
     width: 50%;
     background: url(/assets/images/family\ in\ hospital.jpg) 25% 50% no-repeat;
     background-size: 55rem;
+}
+
+#contact-image {
+    width: 50%;
+    background: url(/assets/images/ambulances-away.jpeg) 40% 40% no-repeat;
+    background-size: 52rem;
 }
 
 .big-btn {
