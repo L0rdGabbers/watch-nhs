@@ -427,6 +427,39 @@ footer p {
     color: #fff;
 }
 
+#toggle {
+    z-index:2;
+    height: 3.75rem;
+    width: 3.75rem;
+    position: absolute;
+    top: 7.2rem;
+    left: 0;
+    cursor: pointer;
+    display: none;
+}
+
+#hamburger {
+    position: absolute;
+    top: 7.2rem;
+    left: 0;
+    height: 3.75rem;
+    width: 3.75rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: none;
+}
+
+#menu {
+    display: none;
+    white-space: nowrap;
+    position: absolute;
+    background-color: rgba(235, 189, 23, 0.9);
+    min-width: fit-content;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
 @media screen and (max-width: 950px) {
     nav ul {
         display: none;
