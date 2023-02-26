@@ -199,6 +199,15 @@ nav a:hover {
     font-size: larger;
 }
 
+#summary .page-text {
+    padding: 1% 0 1% 0;
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
 .buttons {
     display: flex;
     justify-content: space-around;
