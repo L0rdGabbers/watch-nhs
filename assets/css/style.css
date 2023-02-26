@@ -408,7 +408,7 @@ nav a:hover {
 }
 
 #pre-footer img {
-    max-height: 150px;
+    height: 10rem;
 }
 
 footer {
@@ -498,5 +498,10 @@ footer p {
     .buttons {
     flex-direction: column;
     align-items: center;
+    }
+
+    #pre-footer img {
+        width: auto;
+        height: 4rem;
     }
 }
