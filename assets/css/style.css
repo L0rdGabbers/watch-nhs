@@ -175,21 +175,13 @@ nav a:hover {
 #cover-text {
     font-size: 130%;
     letter-spacing: 4px;
-
-    width: 300px;
-    height: 150px;
-
+    width: 18.75rem;
+    height: 9.4rem;
     padding: 40px 20px 0 20px;
-    
-
     background-color: rgba(127, 0, 127, 0.7);
-
-    bottom: 50px;
-    right: 150px;
-
+    bottom: 10%;
+    right: 10rem;
     position: absolute;
-
-
 }
 
 #summary{
@@ -290,7 +282,6 @@ nav a:hover {
 
 .page-text p {
     padding: 0 0 1em 0;
-    margin-right: 5rem
 }
 
 .page-text p span {
@@ -502,5 +493,10 @@ footer p {
 
     .toggle:checked ~ .menu {
         display: flex
+    }
+
+    .buttons {
+    flex-direction: column;
+    align-items: center;
     }
 }
