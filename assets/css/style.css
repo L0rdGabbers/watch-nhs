@@ -427,3 +427,8 @@ footer p {
     color: #fff;
 }
 
+@media screen and (max-width: 950px) {
+    nav ul {
+        display: none;
+    }
+}
