@@ -448,6 +448,7 @@ footer p {
     height: 3.75rem;
     width: 3.75rem;
     display: none;
+    color: white;
 }
 
 .menu {
@@ -524,3 +525,4 @@ footer p {
     #cover-text {
         left: 0;
     }
+}
