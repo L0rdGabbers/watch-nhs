@@ -272,7 +272,7 @@ nav a:hover {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: flex-start;
 }
 
 .page-text ul {
@@ -322,7 +322,7 @@ nav a:hover {
 #ambulance-corner {
     width: 50%;
     min-height: 24rem;
-    background: url(/assets/images/ambulances.jpg) 30% 30% no-repeat;
+    background: url(/assets/images/ambulances.jpg) 50% 30% no-repeat;
     margin-left: 1%;
 }
 
@@ -359,7 +359,7 @@ nav a:hover {
 #guideline-image {
     width: 50%;
     background: url(/assets/images/guidelines.jpg) 40% 50% no-repeat;
-    background-size: 55rem;
+    background-size: 80rem;
 }
 
 #family-corner {
@@ -393,7 +393,6 @@ nav a:hover {
 #btn-space {
     display: flex;
     justify-content: space-around;
-    width: 92%;
 }
 
 #footer-border {
@@ -519,6 +518,32 @@ footer p {
         width: auto;
         height: 4rem;
     }
+
+    .section-half {
+        flex-wrap: wrap;
+    }
+
+    #ambulance-corner, .image-right, #team-photo{
+        width: 100%;
+    }
+
+    .page-text {
+        justify-content: unset;
+    }
+
+    .big-btn {
+        width: 10rem;
+        height: 5rem;
+    }
+
+    .big-btn p {
+        font-size: 100%;
+    }
+
+    .row-nowrap {
+        flex-direction: column;
+    }
+
 }
 
 @media screen and (max-width: 500px) {
