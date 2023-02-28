@@ -224,6 +224,9 @@ nav a:hover {
     padding: 50px;
 }
 
+.out-btn {
+    padding-bottom: 2rem;
+}
 .out-btn a {
     display: flex;
     justify-content: center;
