@@ -4,7 +4,9 @@ The Wales and West Acute Transport for Children Service is an ambulance team res
 
 The WATCh team's previous website was due a required update and had a number of technical issues that needed removing. The website is intended to provide the necessary documents for the transfer of children, but also contains guidelines on how to treat children in certain conditions and provides documents to parents whose own children are in WATCh care.  
 
+<img src="docs/readme_images/am_i_responsive_watchnhs.png">
 ​
+
 ## Table of contents:
 1. [**Site Overview**](#site-overview)
 1. [**Planning stage**](#planning-stage)
