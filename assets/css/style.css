@@ -55,6 +55,7 @@
     width: 37rem;
     height: max-content;
 }
+
 nav {
     background-color: rgb(127, 0, 127);
     margin-top: 1.2rem;
@@ -192,6 +193,14 @@ nav a:hover {
     position: absolute;
 }
 
+#cover-text a {
+    color: #fff;
+}
+
+#cover-text a:hover {
+    color: rgb(235, 189, 23)
+}
+
 #summary{
     margin: 30px 10% 0 10%;
 }
@@ -296,6 +305,18 @@ nav a:hover {
     font-weight: 600;
 }
 
+
+.page-text a {
+    color: rgb(127, 0, 127);
+}
+
+.page-text a:visited {
+    color: rgb(127, 0, 127);
+}
+
+.page-text a:hover {
+    color: #000;
+}
 
 .hero-section {
     padding-top: 5px;
