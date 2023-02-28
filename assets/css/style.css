@@ -550,10 +550,12 @@ footer p {
 
     #watch-logo {
         width: 62%;
+        height: 10vw
     }
     
     #nhs-logo {
         width: 15%;
+        height: 7vw;
     }
 
     #pre-footer img {
