@@ -62,7 +62,7 @@ The WATCh team's previous website was due a required update and had a number of 
 ## **Current Features Common to all pages**
 
 #### *Header*
-* The header of the site contains two logos, one WATCh logo and one NHS logo
+* The header of each page contains two logos, one WATCh logo and one NHS logo
 * Both logos are responsive 
 
 <img src="docs/readme_images/header.png">
@@ -100,6 +100,12 @@ The WATCh team's previous website was due a required update and had a number of 
 
 <img src="docs/readme_images/referrals_page.png">
 
+#### *Footer*
+* The footer of each page contains two logos, one NHS logo and one GIG Logo
+* Both logos are responsive 
+* At the very bottom is grey bar which contains copyright details to WATCh as well as credits for myself
+
+<img src="docs/readme_images/footer.png">
 ​
 
 
