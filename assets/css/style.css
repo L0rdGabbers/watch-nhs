@@ -82,7 +82,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #EBBD17;
+    color: rgb(235, 189, 23);
 }
 
 .active a {
@@ -133,7 +133,7 @@ nav a:hover {
   }
 
 .dropbtn:hover {
-    color:#EBBD17;
+    color: rgb(235, 189, 23);
 }
 
 .dropdown-content a:hover {
@@ -247,7 +247,7 @@ nav a:hover {
 }
 
 .out-btn a:hover .purple-btn, .out-btn:hover .big-btn {
-    background-color: #EBBD17;
+    background-color: rgb(235, 189, 23)
 }
 
 .in-btn{

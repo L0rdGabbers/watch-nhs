@@ -31,19 +31,27 @@ The WATCh team's previous website was due a required update and had a number of 
 ​
 ## **Planning stage**
 ### **Target Audiences:**
-​
+* Members of WATCh
+* Paediatricians responsible for the transfer of a child to WATCh care
+* Parents of Children in WATCh care
 ​
 ### **User Stories:**
-​
+* As a user, I want to see learn who the WATCh team members are
+* As a user, I want to be able to access the WATCh team Drug Sheet required to provide proper care to my patients quickly and efficiently.
+* As a user, I want to find the WATCh 24 hour hotline
+* As a user, I want to acquire the WATCh transfer sheet
 ​
 ### **Site Aims:**
+* To provide all the necessary links to important WATCh files and sites
+* To inform parents about the services WATCh provides when their child is being transferred to city another location to allow for proper care
+* To offer the user an oppertunity to get in contact
 ​
-
 ### **Color Scheme:**
+* For my primary colour, I chose purple rgb(127, 0, 127), to match the preexisting WATCh logo; along with a gold rgb(235, 189, 23) as a secondary colour seeing as it stands out but not too harshly
 ​
-​
-## **Typography**
-​
+### **Typography**
+* As per contractor's request, the only font used throughout the site is Ubuntu, the font used in their preexisting WATCh logo
+* All fonts were sourced from Google fonts, as stated in the credits.
 ​
 ## **Current Features Common to all pages**
 ​
