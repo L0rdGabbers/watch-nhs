@@ -48,19 +48,61 @@ The WATCh team's previous website was due a required update and had a number of 
 ​
 ### **Color Scheme:**
 * For my primary colour, I chose purple rgb(127, 0, 127), to match the preexisting WATCh logo; along with a gold rgb(235, 189, 23) as a secondary colour seeing as it stands out but not too harshly
+
+<img src="docs/readme_images/color_scheme.png">
+
 ​
 ### **Typography**
 * As per contractor's request, the only font used throughout the site is Ubuntu, the font used in their preexisting WATCh logo
 * All fonts were sourced from Google fonts, as stated in the credits.
-​
-## **Current Features Common to all pages**
-​
-#### *Navigation Bar:*
+
+<img src="docs/readme_images/logo_long.jpg">
 
 ​
-#### *features*
+## **Current Features Common to all pages**
+
+#### *Header*
+* The header of the site contains two logos, one WATCh logo and one NHS logo
+* Both logos are responsive 
+
+<img src="docs/readme_images/header.png">
+
 ​
+#### *Navigation Bar*
+* A responsive navigation bar that provides access to/from all pages on the site
+* When a particular page is being accessed, the corresponding page name appears white to remind the user which page they are on
+* When a navigation bar link is being hovered, the link will turn gold rgb(235, 189, 23)
+
+<img src="docs/readme_images/navigation_bar.png">
+
+* The about label contains a dropdown section providing the links to the "About Us" and "Team" pages
+* Like the rest of the navigation bar, the dropdown section also has active and hovering qualities
+
+
+#### *Hamburger Navigation Menu*
+* Should a user view this site on a mobile device, the navigation bar is replaced with a hamburger icon that provides links to/from all pages
+* Just as the main navigation bar did, the hamburger dropdown menu is equipped with active and hover qualities
+
+<img src="docs/readme_images/hamburger_menu.png">
+
+
+#### *Main Section*
+* Each page contains a main section which contains all of that particular page's information, necessary links and an accompanying photo
+
+<img src="docs/readme_images/about_us_page.png">
+
+* Many of these pages contain a button or series of buttons that provide links to .pdf files, edexcel files, or other pages of this site
+* All buttons have will turn gold rgb(235, 189, 23) when hovered over
+
+<img src="docs/readme_images/button_regular_spacing.png">
+
+* On the referrals, drug sheet, guidelines, family, and contact pages, which are more functional than decorational, the accompanying image will dissapear when the page width is below 950px.
+
+<img src="docs/readme_images/referrals_page.png">
+
 ​
+
+
 ## **Future-Enhancements**
 ​
 ​
