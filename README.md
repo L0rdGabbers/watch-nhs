@@ -1,6 +1,8 @@
 # **The Wales and West Acute Transport for Children Service (WATCh) Bristol**
 ## **Site Overview**
-The Wales and West Acute Transport for Children Service is an ambulance team responsible for the safe transportation of critically ill children across the South West England and South Wales jointly commissioned by NHS South West England Specialist Commissioning and Welsh Health Specialised Services Committee (WHSSC). The WATCh team's previous website was due a required update and had a number of technical issues that needed removing. The website is intended to provide the necessary documents for the transfer of children, but also contains guidelines on how to treat children in certain conditions and provides documents to parents whose own children are in WATCh care.  
+The Wales and West Acute Transport for Children Service is an ambulance team responsible for the safe transportation of critically ill children across the South West England and South Wales jointly commissioned by NHS South West England Specialist Commissioning and Welsh Health Specialised Services Committee (WHSSC). 
+
+The WATCh team's previous website was due a required update and had a number of technical issues that needed removing. The website is intended to provide the necessary documents for the transfer of children, but also contains guidelines on how to treat children in certain conditions and provides documents to parents whose own children are in WATCh care.  
 
 ​
 ## Table of contents:
@@ -10,7 +12,7 @@ The Wales and West Acute Transport for Children Service is an ambulance team res
     * [***User Stories***](#user-stories)
     * [***Site Aims***](#site-aims)
     * [***Color Scheme***](#color-scheme)
-    * [***Typography**](#typography)
+    * [***Typography***](#typography)
 1. [**Current Features Common to all pages**](#current-features-common-to-all-pages)
     * [***Header Element:***](#header-element)
     * [***The rest of your features***](#features)
@@ -46,7 +48,7 @@ The Wales and West Acute Transport for Children Service is an ambulance team res
 #### *Navigation Bar:*
 
 ​
-#### *features
+#### *features*
 ​
 ​
 ## **Future-Enhancements**

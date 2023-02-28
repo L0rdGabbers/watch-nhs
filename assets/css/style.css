@@ -270,7 +270,8 @@ nav a:hover {
 }
 
 .header {
-    color:rgb(127, 0, 127)
+    color:rgb(127, 0, 127);
+    font-size: 2rem;
 }
 
 .page-text-out {
@@ -316,6 +317,10 @@ nav a:hover {
 
 .page-text a:hover {
     color: #000;
+}
+
+.page-text h2 {
+    font-size: 1.5rem;
 }
 
 .hero-section {
