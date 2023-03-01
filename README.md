@@ -119,10 +119,68 @@ The WATCh team's previous website was due a required update and had a number of 
 ### *Responsiveness*
 * I used my ASUS TUF DASH F15 to write and test the site during the development phase and used Chrome Dev Tools to test for initial responsiveness with great success
 * After the intial testing was complete, I used my iPhone 8+ to test whether the responsive coding worked across devices and only encountered one issue to be described later.
+* I then tested my website on a different computer (TUF B550M-PLUS) on several browsers browsers including Firefox, Microsoft Edge, and Chrome once again.
+
+### *Functionality* 
+* I tested each link on the Navigation Bar from every page to ensure that they functioned properly
+* I tested each link on the Hamburger Menu from every page to ensure that they functioned properly
+* I tested the phone number links, both on my laptop and my pc, to ensure that they did function as telephone anchors
+* I tested each guideline link to ensure that they took me to the correct pdf
+* I ensured that the Drug Sheet attempts to download a local copy of the Drug-Sheet.xls page
+* I ensured that each link has a target:"_blank" so that a new tab is opened when a link is opened
+* I tested the email link on the contact-us page so that it would open up the mail app to send to the correct email address
+
+### *Verification*
+* I tested the html code on w3c validator, which resulted in the following issues
+
+<img src="docs/readme_images/w3c_html_watchnhs.png">
+
+* Aside from the "for" "label" error, since it was not being used as a form, but rather for the hamburger icon, I fixed all errors and ran the code through again to make sure they were properly dealt with, but encountered new issues
+
+<img src="docs/readme_images/new_w3c_problem.png">
+
+* After fixing the "span" error, I ran the code one final time and no outsanding errors remained
+
+<img src="docs/readme_images/problems_that_arent_problems.png">
+
+* I then tested css code on the w3c validator which resulted in a single error
+
+<img src="docs/readme_images/w3c_css_error.png">
+
+* After this line of code was removed, I double checked all sites to ensure that they functioned and they did, and the validator returned with no issues
+
+<img src="docs/readme_images/w3c_css_no_error.png">
+
+* Finally, I tested my site on the Google dev tools "lighthouse" function
+
+<img src="docs/readme_images/lighthouse_watch.png">​
 ​
-​
+
 ## **Bugs**
-​
+
+### iPhone 
+* When the website was first opened on a mobile device, the logos in the header stretched across the screen
+
+<img src="docs/readme_images/stretched_logos.jpg">
+
+* This problem occured because the height of the logo was set to auto, whilst the width had been set to a particular percentage. On desktop and on dev tools repsonsive checker, this did not flag as a problem, it did, however, occur on my iPhone
+* To fix this problem I set the individual height of each logo to be relative to the visible width of the screen in the media query
+
+### List Spacing
+* On the guidelines page, the list items were bunched together too closely
+
+<img src="docs/readme_images/spacing_bug.png">
+
+* This problem occured because the unordered lists that that contained the links were set to fill only be as wide as the longest list item
+* To fix this problem I added padding to the unordered list so that the list items had more space to breathe
+
+<img src="docs/readme_images/spacing_bug_fixed.png">
+
+### Button Alignment
+* This issue was easily the most challenging bug I encountered, but it fixing it gave me a much better understanding of how flexbox works.
+* The navigation buttons at the bottom of the index page had been aligned using flexbox, which I was newly using, but the button and the underlining text were not aligned by the centre 
+
+<img src="docs/readme_images/button_bug.png">
 
 ## **Deployment**
 
