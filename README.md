@@ -192,8 +192,8 @@ The WATCh team's previous website was due a required update and had a number of 
 2. From the left-hand menu, select the **Pages** tab.
 3. Under the **Source** section, select the **Main** branch from the drop-down menu and click **Save**.
 4. A message will be displayed to indicate a successful deployment to GitHub pages and provide the live link.
-​
-You  can find the live site via the following URL - [live webpage](https://yoururlhere)
+
+* You can find the live site via the following URL - [live webpage](https://l0rdgabbers.github.io/watch-nhs/)
 
 ​
 ## **Tech**
@@ -211,6 +211,7 @@ You  can find the live site via the following URL - [live webpage](https://youru
 * The hamburger icon was inspired from several examples provided found at: https://alvarotrigo.com/blog/hamburger-menu-css/
 * All button icons were sourced from: https://fontawesome.com/search?m=freecom
 * Several website photos were provided by WATCh team's very own Dr Will Marriage
+* Ubuntu font was provided sourced from google fonts: https://fonts.google.com/specimen/Ubuntu?query=ubuntu
 ​  
 ### **Media:**
 
