@@ -164,7 +164,7 @@ nav a:hover {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url(assets/images/watch_ambulance.jpg) no-repeat 40% 85%;
+    background: url(../images/watch_ambulance.jpg) no-repeat 40% 85%;
 
     animation-name: hero-zoom;
     animation-duration: 10s;
@@ -348,7 +348,7 @@ nav a:hover {
 #ambulance-corner {
     width: 50%;
     min-height: 24rem;
-    background: url(assets/images/ambulances.jpg) 50% 30% no-repeat;
+    background: url(../images/ambulances.jpg) 50% 30% no-repeat;
     margin-left: 1%;
 }
 
@@ -360,7 +360,7 @@ nav a:hover {
 #team-photo {
     width: 100%;
     min-height: 24rem;
-    background: url(assets/images/ambulance_team.jpg) 40% 50% no-repeat;
+    background: url(../images/ambulance_team.jpg) 40% 50% no-repeat;
     margin: 0 2% 2% 2%;
 }
 
@@ -370,7 +370,7 @@ nav a:hover {
 
 #referral-corner {
     width: 50%;
-    background: url(assets/images/referral.jpg) 40% 30% no-repeat;
+    background: url(../images/referral.jpg) 40% 30% no-repeat;
     background-size: 55rem;
 }
 
@@ -381,26 +381,26 @@ nav a:hover {
 
 #drug-corner {
     width: 50%;
-    background: url(assets/images/pills.jpg) 24% 96% no-repeat;
+    background: url(../images/pills.jpg) 24% 96% no-repeat;
     background-size: 46rem;
     height: 17rem;
 }
 
 #guideline-image {
     width: 50%;
-    background: url(assets/images/guidelines.jpg) 40% 50% no-repeat;
+    background: url(../images/guidelines.jpg) 40% 50% no-repeat;
     background-size: 80rem;
 }
 
 #family-corner {
     width: 50%;
-    background: url(assets/images/family_in_hospital.jpg) 25% 50% no-repeat;
+    background: url(../images/family_in_hospital.jpg) 25% 50% no-repeat;
     background-size: 55rem;
 }
 
 #contact-image {
     width: 50%;
-    background: url(assets/images/ambulances_away.jpeg) 40% 40% no-repeat;
+    background: url(../images/ambulances_away.jpeg) 40% 40% no-repeat;
     background-size: 52rem;
 }
 
