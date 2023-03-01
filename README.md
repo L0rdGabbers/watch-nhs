@@ -203,7 +203,9 @@ You  can find the live site via the following URL - [live webpage](https://youru
 ## **Credits**
 
 ### **Honorable mentions**
-​
+* Thank you to Richard Wells, for all of his advice on how to best utilise my skills and recommending other websites to improve my HTML and CSS coding
+* Thank you to Rhys Webber, for allowing me to test whether my site ran on a variety of different devices and sites and for putting up with my ramblings well into the early hours of the morning
+* Thank you to Madison Marriage for suggesting the Code Insitute Course to me and for, ultimately, leading me to creating this site
 ​
 ### **Content:**
 * The hamburger icon was inspired from several examples provided found at: https://alvarotrigo.com/blog/hamburger-menu-css/
@@ -211,8 +213,11 @@ You  can find the live site via the following URL - [live webpage](https://youru
 * Several website photos were provided by WATCh team's very own Dr Will Marriage
 ​  
 ### **Media:**
+
+#### **The following images were sourced from a variety of sites, all other photos used were provided by WATCh team themselves**
+
 * The following image was sourced from Bristol City Ambulance's Twitter Page
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our team are raring to go for day 2 of <a href="https://twitter.com/PrideCymru?ref_src=twsrc%5Etfw">@PrideCymru</a>. We wish everyone attending today a very safe and happy pride 🌈 <a href="https://t.co/YkbeO6WtHm">pic.twitter.com/YkbeO6WtHm</a></p>&mdash; BRISTOL AMBULANCE (@Bristolambo) <a href="https://twitter.com/Bristolambo/status/1563849652864180227?ref_src=twsrc%5Etfw">August 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our team are raring to go for day 2 of <a href="https://twitter.com/PrideCymru?ref_src=twsrc%5Etfw">@PrideCymru</a>. We wish everyone attending today a very safe and happy pride 🌈 <a href="https://t.co/YkbeO6WtHm">pic.twitter.com/YkbeO6WtHm</a></p>&mdash; BRISTOL AMBULANCE (@Bristolambo) <a href="https://twitter.com/Bristolambo/status/1563849652864180227?ref_src=twsrc%5Etfw">August 28, 2022</a></blockquote>
 
 * The following image was sourced from this site: https://www.unitetheunion.org/news-events/news/2023/january/unite-ambulance-workers-announce-strike-on-23-january/
 <img src="docs/readme_images/ambulances.jpg">
@@ -223,6 +228,15 @@ You  can find the live site via the following URL - [live webpage](https://youru
 
 * The following image was sourced from this site: https://en.wikipedia.org/wiki/NHS_Wales
 <img src="docs/readme_images/gig_cymru.png">
+
+* The following image was sourced from this site: https://www.ox.ac.uk/news/2022-05-19-new-reporting-guidelines-developed-improve-ai-healthcare-settings
+<img src="docs/readme_images/guidelines.jpg">
+
+* The following image was sourced from this site: https://muhc.ca/newsroom/news/beware-label-prescription-drug-use
+<img src="docs/readme_images/pills.jpg">
+
+* The following image was sourced from this site: https://www.uhbw.nhs.uk/
+<img src="docs/readme_images/university_hospitals_logo.png">
 
 ​
 
