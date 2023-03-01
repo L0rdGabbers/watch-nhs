@@ -61,14 +61,14 @@ The WATCh team's previous website was due a required update and had a number of 
 ​
 ## **Current Features Common to all pages**
 
-#### *Header*
+### *Header*
 * The header of each page contains two logos, one WATCh logo and one NHS logo
 * Both logos are responsive 
 
 <img src="docs/readme_images/header.png">
 
 ​
-#### *Navigation Bar*
+### *Navigation Bar*
 * A responsive navigation bar that provides access to/from all pages on the site
 * When a particular page is being accessed, the corresponding page name appears white to remind the user which page they are on
 * When a navigation bar link is being hovered, the link will turn gold rgb(235, 189, 23)
@@ -79,14 +79,14 @@ The WATCh team's previous website was due a required update and had a number of 
 * Like the rest of the navigation bar, the dropdown section also has active and hovering qualities
 
 
-#### *Hamburger Navigation Menu*
+### *Hamburger Navigation Menu*
 * Should a user view this site on a mobile device, the navigation bar is replaced with a hamburger icon that provides links to/from all pages
 * Just as the main navigation bar did, the hamburger dropdown menu is equipped with active and hover qualities
 
 <img src="docs/readme_images/hamburger_menu.png">
 
 
-#### *Main Section*
+### *Main Section*
 * Each page contains a main section which contains all of that particular page's information, necessary links and an accompanying photo
 
 <img src="docs/readme_images/about_us_page.png">
@@ -100,7 +100,7 @@ The WATCh team's previous website was due a required update and had a number of 
 
 <img src="docs/readme_images/referrals_page.png">
 
-#### *Footer*
+### *Footer*
 * The footer of each page contains two logos, one NHS logo and one GIG Logo
 * Both logos are responsive 
 * At the very bottom is grey bar which contains copyright details to WATCh as well as credits for myself
@@ -111,9 +111,14 @@ The WATCh team's previous website was due a required update and had a number of 
 
 ## **Future-Enhancements**
 ​
-​
+### *STOPP Form*
+* The STOPP form is a crucial part of patient transfer, which I have currently included as button link to the pdf file on the index page. One area for improvement, however, could be to include an interactive STOPP form page on the website with its own database to transfer patients more efficiently.
+
 ## **Testing Phase**
 ​
+### *Responsiveness*
+* I used my ASUS TUF DASH F15 to write and test the site during the development phase and used Chrome Dev Tools to test for initial responsiveness with great success
+* After the intial testing was complete, I used my iPhone 8+ to test whether the responsive coding worked across devices and only encountered one issue to be described later.
 ​
 ​
 ## **Bugs**
