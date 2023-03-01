@@ -182,6 +182,9 @@ The WATCh team's previous website was due a required update and had a number of 
 
 <img src="docs/readme_images/button_bug.png">
 
+* The issue was being caused because the button and the text were contained in a singular div element and were being arranged by column, so they were wrapping.
+* To fix this issue, I realised that I could arrange the contents of the div to be descend in rows, and by doing this they began being alinged from the centre of the top of each element
+
 ## **Deployment**
 
 ​
