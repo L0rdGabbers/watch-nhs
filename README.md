@@ -186,17 +186,44 @@ The WATCh team's previous website was due a required update and had a number of 
 * To fix this issue, I realised that I could arrange the contents of the div to be descend in rows, and by doing this they began being alinged from the centre of the top of each element
 
 ## **Deployment**
+* I deployed the page on GitHub pages via the following procedure: -
+​
+1. From the project's [repository](https://github.com/L0rdGabbers/watch-nhs), go to the **Settings** tab.
+2. From the left-hand menu, select the **Pages** tab.
+3. Under the **Source** section, select the **Main** branch from the drop-down menu and click **Save**.
+4. A message will be displayed to indicate a successful deployment to GitHub pages and provide the live link.
+​
+You  can find the live site via the following URL - [live webpage](https://yoururlhere)
 
 ​
 ## **Tech**
+* The coding languages used to create this site were HTML and CSS
 ​
 ​
 ## **Credits**
+
 ### **Honorable mentions**
 ​
 ​
 ### **Content:**
-​
-  
+* The hamburger icon was inspired from several examples provided found at: https://alvarotrigo.com/blog/hamburger-menu-css/
+* All button icons were sourced from: https://fontawesome.com/search?m=freecom
+* Several website photos were provided by WATCh team's very own Dr Will Marriage
+​  
 ### **Media:**
+* The following image was sourced from Bristol City Ambulance's Twitter Page
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our team are raring to go for day 2 of <a href="https://twitter.com/PrideCymru?ref_src=twsrc%5Etfw">@PrideCymru</a>. We wish everyone attending today a very safe and happy pride 🌈 <a href="https://t.co/YkbeO6WtHm">pic.twitter.com/YkbeO6WtHm</a></p>&mdash; BRISTOL AMBULANCE (@Bristolambo) <a href="https://twitter.com/Bristolambo/status/1563849652864180227?ref_src=twsrc%5Etfw">August 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+* The following image was sourced from this site: https://www.unitetheunion.org/news-events/news/2023/january/unite-ambulance-workers-announce-strike-on-23-january/
+<img src="docs/readme_images/ambulances.jpg">
+
+* The following image was sourced from this site: https://mylungsmylife.org/topics/group-3/wheeze-and-your-child/what-if-my-child-is-admitted-to-hospital/
+<img src="docs/readme_images/family_in_hospital.jpg">
+
+
+* The following image was sourced from this site: https://en.wikipedia.org/wiki/NHS_Wales
+<img src="docs/readme_images/gig_cymru.png">
+
+​
+
 ​
