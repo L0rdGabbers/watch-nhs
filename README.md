@@ -146,6 +146,9 @@ The WATCh team's previous website was due a required update and had a number of 
 
 * Aside from the "for" "label" error, since it was not being used as a form, but rather for the hamburger icon, I fixed all errors and ran the code through again to make sure they were properly dealt with. The error validator returned with these results on all pages.
 
+<img src="docs/readme_images/final_verification.png">
+
+* I then tested my CSS code on w3c CSS validator and returned with no bugs.
 
 <img src="docs/readme_images/w3c_css_no_error.png">
 
