@@ -3,6 +3,7 @@
     font-family: Ubuntu, sans-serif;
 }
 
+/* Grid formatting */
 .row {
     display: flex;
     flex-wrap: wrap;
@@ -33,6 +34,7 @@
     width: 10%
 }
 
+/* Page headers and header logos*/
 .logo-head {
     height: 6rem
 }
