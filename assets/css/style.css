@@ -24,6 +24,7 @@
 
 .column-3rd {
     width: 33%;
+    margin: 0 .1rem;
 }
 
 .column-4th {
@@ -32,6 +33,18 @@
 
 .column-10th {
     width: 10%
+}
+
+.section-half {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    margin-bottom: 1rem;
+}
+
+.image-right {
+    width: 50%;
+    padding: 10px 4% 0 20px;
 }
 
 /* Page headers and header logos*/
@@ -58,6 +71,7 @@
     height: max-content;
 }
 
+/* Navigation Bar */
 nav {
     background-color: rgb(127, 0, 127);
     margin-top: 1.2rem;
@@ -110,7 +124,6 @@ nav a:hover {
     display: inline-block;
   }
   
-  /* Dropdown Content (Hidden by Default) */
   .dropdown-content {
     display: none;
     white-space: nowrap;
@@ -151,6 +164,7 @@ nav a:hover {
     color: #fff;
 }
 
+/* Hero Image - Index Page */
 #hero-outer {
     height: 600px;
     width: 100%;
@@ -220,6 +234,7 @@ nav a:hover {
     justify-content: flex-start;
 }
 
+/* Buttons */
 .buttons {
     display: flex;
     justify-content: space-around;
@@ -271,6 +286,28 @@ nav a:hover {
     padding-top: 8px;
 }
 
+.big-btn {
+    height: 10rem;
+    width: 20rem;
+    background-color: rgb(127, 0, 127);
+    border-radius: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.big-btn p {
+    font-size: 200%;
+}
+
+#btn-space {
+    display: flex;
+    justify-content: space-around;
+}
+
+/* Text */
 .header {
     color:rgb(127, 0, 127);
     font-size: 2rem;
@@ -340,13 +377,7 @@ nav a:hover {
     color: rgb(127, 0, 127);
 }
 
-.section-half {
-    width: 100%;
-    height: fit-content;
-    display: flex;
-    margin-bottom: 1rem;
-}
-
+/* Page Specific Elements and Images */
 #ambulance-corner {
     width: 50%;
     min-height: 24rem;
@@ -354,20 +385,11 @@ nav a:hover {
     margin-left: 1%;
 }
 
-.image-right {
-    width: 50%;
-    padding: 10px 4% 0 20px;
-}
-
 #team-photo {
     width: 100%;
     min-height: 24rem;
     background: url(../images/ambulance_team.jpg) 40% 50% no-repeat;
     margin: 0 2% 2% 2%;
-}
-
-.column-3rd {
-    margin: 0 .1rem;
 }
 
 #referral-corner {
@@ -379,7 +401,6 @@ nav a:hover {
 #referral-right .buttons {
     padding-top: 4rem;
 }
-
 
 #drug-corner {
     width: 50%;
@@ -406,27 +427,6 @@ nav a:hover {
     background-size: 52rem;
 }
 
-.big-btn {
-    height: 10rem;
-    width: 20rem;
-    background-color: rgb(127, 0, 127);
-    border-radius: 2rem;
-    display: flex;
-    flex-direction: column;
-    align-content: center;
-    justify-content: center;
-    align-items: center;
-}
-
-.big-btn p {
-    font-size: 200%;
-}
-
-#btn-space {
-    display: flex;
-    justify-content: space-around;
-}
-
 #drug-btn {
     width: 100%;
     height: fit-content;
@@ -435,6 +435,8 @@ nav a:hover {
     margin-bottom: 1rem;
 }
 
+
+/* Footer */
 #footer-border {
     display: flex;
     justify-content: center;
@@ -468,6 +470,7 @@ footer p {
     color: #fff;
 }
 
+/* Hamburger Nav Menu */
 .toggle {
     z-index:2;
     height: 3.75rem;
@@ -518,6 +521,8 @@ footer p {
     color: #000;
 }
 
+
+/* Media Queries */
 @media screen and (max-width:1100px) {
     .column-3rd {
         width: 100%
