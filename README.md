@@ -140,23 +140,12 @@ The WATCh team's previous website was due a required update and had a number of 
 * I tested the email link on the contact-us page so that it would open up the mail app to send to the correct email address
 
 ### *Verification*
-* I tested the html code on w3c validator, which resulted in the following issues
+* I tested all html files on w3c validator, which resulted in several issues, including:
 
 <img src="docs/readme_images/w3c_html_watchnhs.png">
 
-* Aside from the "for" "label" error, since it was not being used as a form, but rather for the hamburger icon, I fixed all errors and ran the code through again to make sure they were properly dealt with, but encountered new issues
+* Aside from the "for" "label" error, since it was not being used as a form, but rather for the hamburger icon, I fixed all errors and ran the code through again to make sure they were properly dealt with. The error validator returned with these results on all pages.
 
-<img src="docs/readme_images/new_w3c_problem.png">
-
-* After fixing the "span" error, I ran the code one final time and no outsanding errors remained
-
-<img src="docs/readme_images/problems_that_arent_problems.png">
-
-* I then tested css code on the w3c validator which resulted in a single error
-
-<img src="docs/readme_images/w3c_css_error.png">
-
-* After this line of code was removed, I double checked all sites to ensure that they functioned and they did, and the validator returned with no issues
 
 <img src="docs/readme_images/w3c_css_no_error.png">
 
